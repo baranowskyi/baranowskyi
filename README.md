@@ -16,6 +16,7 @@ I'm a Web Developer, Music Producer and Sound Designer.
   <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="50px" height="50px"/> 
   <img src="https://cdn.svgporn.com/logos/php.svg" width="50px" height="50px"/>  
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50px" height="50px"/>
+  <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="50px" height="50px"/>  
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50px" height="50px"/>
 </div>
 

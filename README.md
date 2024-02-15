@@ -27,3 +27,17 @@ I love creating interesting things using different tools.
 <div style="display: flex; ">
   <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width="50px" height="50px"/>  
 </div>
+
+<br>
+
+<div style="display: flex; ">
+  
+  <a href="https://www.linkedin.com/in/baranowskyi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /> 
+  </a>      
+ 
+  <a href="https://soundcloud.com/beatcheat">
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white" /> 
+  </a>
+  
+</div>

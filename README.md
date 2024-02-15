@@ -1,7 +1,11 @@
-<h2>
-Hi, my name is Aliaksandr. <br>
-I'm a Web Developer, Music Producer and Sound Designer. 
-</h2>
+<h2>Hi, my name is Aliaksandr.</h2>
+
+<p>
+I'm a Web Developer, Music Producer and Sound Designer. <br>
+I love creating interesting things using different tools.
+</p>
+
+<br>
 
 <div style="display: flex; "> 
   <img src="https://cdn.svgporn.com/logos/html-5.svg" width="50px" height="50px"/>

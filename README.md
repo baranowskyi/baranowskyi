@@ -1,6 +1,9 @@
-### Hi there 👋
+<h2>
+Hi, my name is Aliaksandr. <br>
+I'm a Web Developer, Music Producer and Sound Designer. 
+</h2>
 
-<div style="display: flex">
+<div style="display: flex;">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
@@ -14,17 +17,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 </div>
 
-<!--
-**baranowskyi/baranowskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex;">
+  <img src="https://cdn.svgporn.com/logos/vue.svg" width="50px" higth="50px"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50px" higth="50px"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

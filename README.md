@@ -21,11 +21,9 @@ Languages and Tools:
   <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="50px" height="50px"/> 
   <img src="https://cdn.svgporn.com/logos/php.svg" width="50px" height="50px"/>  
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50px" height="50px"/>
-  <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="50px" height="50px"/> 
-  <img src="https://cdn.svgporn.com/logos/apache.svg" width="50px" height="50px"/> 
+  <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="50px" height="50px"/>   
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50px" height="50px"/>
-  <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width="50px" height="50px"/>   
-  <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" width="50px" height="50px"/>  
+  <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width="50px" height="50px"/>
 </p>
 
 <h3 align="center">

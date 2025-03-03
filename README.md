@@ -48,6 +48,7 @@ Languages and Tools:
         <img src="./images/vite.svg" alt="Vite" width="44" height="44"/>
       <br>Vite
     </td>
+  </tr>
     <td align="center" width="88">
       <img src="./images/python.svg" alt="Python" width="44" height="44"/>
       <br>Python
@@ -55,8 +56,7 @@ Languages and Tools:
         <td align="center" width="88">
        <img src="./images/django.svg" alt="Django" width="44" height="44"/>
       <br>Django
-      </td>
-  </tr>
+      </td>  
     <td align="center" width="88">
         <img src="./images/php.svg" alt="PHP" width="44" height="44"/>
       <br>PHP
@@ -72,19 +72,19 @@ Languages and Tools:
       </td>
       <td align="center" width="88">
         <img src="./images/docker.svg" alt="Docker" width="44" height="44"/>
-      <br>Docker
+        <br>Docker
      </td>
      <td align="center" width="88">
         <img src="./images/wordpress.svg" alt="WordPress" width="44" height="44"/>
-      <br>WordPress
+        <br>WordPress
     </td>
     <td align="center" width="88">
         <img src="./images/figma.svg" alt="Figma" width="44" height="44"/>
-      <br>Figma
+        <br>Figma
     </td>
     <td align="center" width="88">
         <img src="./images/raspberrypi.svg" alt="Raspberry Pi" width="44" height="44"/>
-      <br>Raspberry Pi
+        <br>Raspberry Pi
     </td>
       
 </table>

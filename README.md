@@ -9,23 +9,6 @@ I love creating interesting things using different tools.
 Languages and Tools:
 </h3>
 
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" width="50px" height="50px"/>
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" width="50px" height="50px"/> 
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50px" height="50px"/>
-   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="50px" height="50px"/>
-  <img src="https://cdn.svgporn.com/logos/vue.svg" width="50px" height="50px"/>   
-  <img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" width="60px" height="50px"/>  
-  <img src="https://cdn.svgporn.com/logos/vitejs.svg" width="50px" height="50px"/>
-  <img src="https://cdn.svgporn.com/logos/python.svg" width="50px" height="50px"/>
-  <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="50px" height="50px"/> 
-  <img src="https://cdn.svgporn.com/logos/php.svg" width="50px" height="50px"/>  
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50px" height="50px"/>
-  <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="50px" height="50px"/>   
-  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="50px" height="50px"/>
-  <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width="50px" height="50px"/>
-</p>
-
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -37,6 +20,14 @@ Languages and Tools:
         <img src="./images/css3.svg" alt="CSS3" width="44" height="44"/>
       <br>CSS3
     </td> 
+    <td align="center" width="88"> 
+        <img src="./images/bem.svg" alt="BEM" width="44" height="44"/>
+      <br>BEM
+    </td>
+    <td align="center"  width="88">
+        <img src="./images/tailwind.svg" alt="Tailwind" width="44" height="44"/>
+      <br>Tailwind
+    </td>
     <td align="center" width="88">
          <img src="./images/js.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
@@ -69,15 +60,7 @@ Languages and Tools:
     <td align="center" width="88">
         <img src="./images/php.svg" alt="PHP" width="44" height="44"/>
       <br>PHP
-    </td>
-    <td align="center" width="88"> 
-        <img src="./images/bem.svg" alt="BEM" width="44" height="44"/>
-      <br>BEM
-    </td>
-    <td align="center"  width="88">
-        <img src="./images/tailwind.svg" alt="Tailwind" width="44" height="44"/>
-      <br>Tailwind
-    </td>
+    </td>    
     <td align="center" width="88">
         <img src="./images/postgresql.svg" alt="PostgreSQL" width="44" height="44"/>
       <br>PostgreSQL
@@ -94,6 +77,14 @@ Languages and Tools:
      <td align="center" width="88">
         <img src="./images/wordpress.svg" alt="WordPress" width="44" height="44"/>
       <br>WordPress
+    </td>
+    <td align="center" width="88">
+        <img src="./images/figma.svg" alt="Figma" width="44" height="44"/>
+      <br>Figma
+    </td>
+    <td align="center" width="88">
+        <img src="./images/raspberrypi.svg" alt="Raspberry Pi" width="44" height="44"/>
+      <br>Raspberry Pi
     </td>
       
 </table>
